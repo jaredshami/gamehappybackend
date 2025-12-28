@@ -1,4 +1,4 @@
-const uWS = require('uWebSockets.js');
+const uWS = require('uwebsockets.js');
 const GameServer = require('./GameServer');
 
 const gameServer = new GameServer();

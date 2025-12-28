@@ -11,7 +11,7 @@
   "author": "Jared Shami",
   "license": "ISC",
   "dependencies": {
-    "uWebSockets.js": "^20.60.0"
+    "uwebsockets.js": "^20.60.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
