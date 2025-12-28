@@ -1,0 +1,19 @@
+{
+  "name": "gamehappy-backend",
+  "version": "1.0.0",
+  "description": "GameHappy WebSocket server - handles game logic for Secret Syndicates",
+  "main": "ws-server.js",
+  "scripts": {
+    "start": "node ws-server.js",
+    "dev": "nodemon ws-server.js"
+  },
+  "keywords": ["websocket", "game", "secret-syndicates"],
+  "author": "Jared Shami",
+  "license": "ISC",
+  "dependencies": {
+    "uWebSockets.js": "^20.60.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
